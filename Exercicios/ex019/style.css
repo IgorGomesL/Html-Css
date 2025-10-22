@@ -1,0 +1,19 @@
+@charset UTF-8;
+
+h1 , h2 , h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    text-indent: 26px;
+}
+
+.destaque{
+    background-color: #F9FF88;)
+}
+
+div >p{
+    text-align: center;
+}
